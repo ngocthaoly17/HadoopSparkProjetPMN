@@ -72,6 +72,3 @@ object Main extends App {
   var rankAscGoods = dfResults.rankingAscServices(service_outputCSVFull)
   rankAscGoods.show()
 
-
-
-}
